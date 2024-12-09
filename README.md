@@ -24,7 +24,7 @@
 </ul>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harisaigithub&label=Profile%20views&color=0e75b6&style=flat" alt="harisaigithub" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NVS-PRABHASH&label=Profile%20views&color=0e75b6&style=flat" alt="NVS-PRABHASH" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harisaigithub" alt="harisaigithub" /></a> </p>
 
