@@ -1,6 +1,6 @@
 ## <h1 align="center">Hi 👋, I'm Prabhash ! :)</h1>
 
-<div align ="center"> <img src="https://github.com/harisaigithub/PROJECTS__/blob/main/banner.jpeg"> </div>
+<div align ="center"> <img src="https://github.com/user-attachments/assets/89a4f1d4-d500-4488-870e-726cfce856ec"> </div>
 <div>
 <img align="right" alt="Coding" width="400" src="https://github.com/harisaigithub/PROJECTS__/blob/main/gif3.gif">
   
@@ -26,7 +26,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NVS-PRABHASH&label=Profile%20views&color=0e75b6&style=flat" alt="NVS-PRABHASH" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harisaigithub" alt="harisaigithub" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NVS-PRABHASH" alt="NVS-PRABHASH" /></a> </p>
 
 - 🔭 I’m currently working on [Dynamic Website for Travel Agencies| MERN Stack  (posting soon!)]
 
@@ -51,9 +51,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/https://parasa-harisai-portfolio.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://parasa-harisai-portfolio.netlify.app/" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/harisaiparasa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harisaiparasa" height="30" width="40" /></a>
-<a href="https://twitter.com/p_harisai_9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="p_harisai_9" height="30" width="40" /></a>
-<a href="https://instagram.com/_mr_.immortal_9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mr_.immortal_9" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nvs-prabhash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nvs-prabhash" height="30" width="40" /></a>
+<a href="https://twitter.com/NVS_Prabhash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="NVS_Prabhash" height="30" width="40" /></a>
+<a href="https://instagram.com/nvs_prabhash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nvs_prabhash" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/harisai_parasa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harisai_parasa" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/harisaiparasa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harisaiparasa" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/harisai_9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harisai_9" height="30" width="40" /></a>
