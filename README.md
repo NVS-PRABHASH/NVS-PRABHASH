@@ -4,7 +4,7 @@
 <div>
 <img align="center" alt="Coding" width="400" src="https://github.com/harisaigithub/PROJECTS__/blob/main/gif3.gif">
   
-<ul align="left">🚀 Passionate Innovator | Transforming Ideas into Impact 🌟 Are you ready to embark on a journey of innovation and achievement? Welcome to my world! 
+<ul align="justify">🚀 Passionate Innovator | Transforming Ideas into Impact 🌟 Are you ready to embark on a journey of innovation and achievement? Welcome to my world! 
   <br></br>
 <ul>🔥 About Me 🔥 </ul>
 <li>I'm not your typical professional; I'm a catalyst for change, a creator of opportunities, and an unapologetic dreamer.</li>
