@@ -2,7 +2,7 @@
 
 <div align ="center"> <img src="https://github.com/user-attachments/assets/89a4f1d4-d500-4488-870e-726cfce856ec"> </div>
 <div>
-<img align="right" alt="Coding" width="400" padding="10px" src="https://github.com/harisaigithub/PROJECTS__/blob/main/gif3.gif">
+<img align="right" alt="Coding" width="400" padding="50px" src="https://github.com/harisaigithub/PROJECTS__/blob/main/gif3.gif">
 </div>
   
 <ul align="justify">🚀 Passionate Innovator | Transforming Ideas into Impact 🌟 Are you ready to embark on a journey of innovation and achievement? Welcome to my world! 
