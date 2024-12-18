@@ -69,7 +69,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NVS-PRABHASH&show_icons=true&locale=en" alt="NVS-PRABHASH" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NVS-PRABHASH&" alt="NVS-PRABHASH" /></p>
+
+<!-- https://github-readme-streak-stats.herokuapp.com/?user=NVS-PRABHASH& -->
+<p><img align="center" src="https://streak-stats.demolab.com/?user=NVS-PRABHASH" alt="NVS-PRABHASH" /></p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=NVS-PRABHASH&limit=5&theme=flat&combine_all_yearly_contributions=true)
