@@ -5,7 +5,7 @@
 <!--img align="right" alt="Coding" width="400" padding="50px" src="https://github.com/harisaigithub/PROJECTS__/blob/main/gif3.gif">
 </div-->
   
-<ul>🚀 AI & ML Engineer | Innovating with Generative AI & Deep Learning 🌟 Ready to dive into the future of technology!
+<ul>             🚀 AI & ML Engineer | Innovating with Generative AI & Deep Learning 🌟 Ready to dive into the future of technology!
   <br></br>
 <ul>🔥 About Me 🔥 </ul>
 <li>I'm not just an engineer; I'm a visionary crafting transformative AI-driven solutions and intelligent systems. </li>
@@ -37,13 +37,9 @@
 
 - 👨‍💻 All of my projects are available at [click Here 👉 [https://github.com/NVS-PRABHASH]
 
-- 👨‍💻 All of my projects are available at [https://parasa-harisai-portfolio.netlify.app/](https://parasa-harisai-portfolio.netlify.app/)
-
 - 💬 Ask me about Generative AI, Deep Learning and Prompt Engineering.
 
 - 📫 How to reach me **prabhasnvs@gmail.com**
-
-<! --- 📄 Know about my experiences [https://tinyurl.com/MyResume-harisai](https://tinyurl.com/MyResume-harisai)
 
 - ⚡ Fun fact I fine-tune AI models by day and spar in Taekwondo by night to keep my focus sharp! 🥋
 
