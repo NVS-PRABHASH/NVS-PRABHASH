@@ -5,23 +5,23 @@
 <!--img align="right" alt="Coding" width="400" padding="50px" src="https://github.com/harisaigithub/PROJECTS__/blob/main/gif3.gif">
 </div-->
   
-<ul>🚀 Passionate Innovator | Transforming Ideas into Impact 🌟 Are you ready to embark on a journey of innovation and achievement? Welcome to my world! 
+<ul>🚀 AI & ML Engineer | Innovating with Generative AI & Deep Learning 🌟 Ready to dive into the future of technology!
   <br></br>
 <ul>🔥 About Me 🔥 </ul>
-<li>I'm not your typical professional; I'm a catalyst for change, a creator of opportunities, and an unapologetic dreamer.</li>
-<li>My mission is to turn the ordinary into extraordinary, and I'm on a relentless pursuit of excellence, with 16x Microsoft learn Bages , 4x Trophies | 18x Google Cloud Badges | AWS certified - Foundations, Cloud Architect, Web Application Builder and many more</li>
+<li>I'm not just an engineer; I'm a visionary crafting transformative AI-driven solutions and intelligent systems. </li>
+<li>My passion lies in pushing boundaries with Artificial Intelligence, Deep Learning, Generative AI, and Prompt Engineering backed by a B.Tech in Computer Science (AI & ML) from Aditya Institute of Technology and Management, Tekkali.</li>
+<li>I’m a proud winner of the Robo Chase competition at ASPIRE 2K23 and hold Google AI-ML certifications, with hands-on experience in developing innovative projects and internships.</li>
   <br></br>
 <ul>💡 What I Bring to the Table 💡 🌐</ul>
-<li>Visionary Thinking: I have a knack for seeing the bigger picture and envisioning innovative solutions that drive results. </li> 
-<li>🛠️ Problem Solver: Challenges are my playground. I thrive on turning complex problems into elegant solutions.</li>
+<li>Visionary Thinking: I have a knack for seeing the bigger picture and envisioning innovative solutions that drive results like real-time crook detection (86% accuracy) and voice-controlled smart homes. </li> 
+<li>🛠️ Problem Solver: Challenges are my playground.From detecting humans through walls using Wi-Fi CSI to optimizing rocket maneuverability, I turn complex challenges into elegant solutions.</li>
 <li>🌱 Continuous Learner: Learning is a lifelong journey. I'm committed to staying at the forefront of industry trends and emerging technologies.</li>
-<li>👥 My Impact 👥 Throughout my career, I've had the privilege of collaborating with exceptional teams, breaking through barriers, and making a tangible difference.</li>
-<li>From spearheading groundbreaking projects to mentoring future leaders, my goal is to leave a lasting legacy of positive change.</li>
+<li>🤝Impactful Collaborator: My internships at Qualivon Technologies along with my Robo Chase victory, showcase my ability to drive team success and deliver results.</li>
   <br></br>
 <ul> 🚀 What's Next? 🚀</ul>
-<li>Let's connect and explore how our paths can align. Whether you're looking to collaborate on exciting ventures, seeking inspiration, or just curious to chat about the latest innovations, I'm here to make meaningful connections.</li>
+<li>LLet’s connect to push the boundaries of AI! Whether you’re interested in collaborating on Generative AI projects, exploring prompt engineering, or discussing deep learning advancements, I’m here to spark innovation., I'm here to make meaningful connections.</li>
 <li>🌟 Let's Ignite Possibilities Together! 🌟 Feel free to reach out, and let's start a conversation that could change the trajectory of our careers and the industries we touch. 🚀🌍</li>
-#Innovation #Leadership #Impact #career #grow #creator #devops
+#Innovation #AI #GenerativeAI #DeepLearning #PromptEngineering #MachineLearning
 </ul>
 </div>
 
@@ -29,25 +29,23 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NVS-PRABHASH" alt="NVS-PRABHASH" /></a> </p>
 
-- 🔭 I’m currently working on [Dynamic Website for Travel Agencies| MERN Stack  (posting soon!)]
+- 🔭 I’m currently working on [Generative AI Chatbot Prototype | Hugging Face & LangChain]
 
-- 🌱 I’m currently learning **PostgreSql,PHP,GO | DSA**
+- 🌱  I’m currently learning Advanced Deep Learning, PyTorch, Computer Vision and Langchain
 
-- 🤝 I’m looking for help with [NexuSmart | FSD (posting soon!)]
+- 🤝 I’m looking for help with [LangChain | OpenCV]
 
-- 👨‍💻 All of my projects are available at [click Here 👉 https://github.com/harisaigithub]
+- 👨‍💻 All of my projects are available at [click Here 👉 [https://github.com/NVS-PRABHASH]
 
 - 👨‍💻 All of my projects are available at [https://parasa-harisai-portfolio.netlify.app/](https://parasa-harisai-portfolio.netlify.app/)
 
-- 📝 I regularly write articles on [Stay Tuned! :)](Stay Tuned! :))
+- 💬 Ask me about Generative AI, Deep Learning and Prompt Engineering.
 
-- 💬 Ask me about **DevOps & Cloud DevOps |DSA**
+- 📫 How to reach me **prabhasnvs@gmail.com**
 
-- 📫 How to reach me **harisaiparasa@gmail.com**
+<! --- 📄 Know about my experiences [https://tinyurl.com/MyResume-harisai](https://tinyurl.com/MyResume-harisai)
 
-- 📄 Know about my experiences [https://tinyurl.com/MyResume-harisai](https://tinyurl.com/MyResume-harisai)
-
-- ⚡ Fun fact **I dont like to mess up with Devops and DSA but I dont follow that 😂😁**
+- ⚡ Fun fact I fine-tune AI models by day and spar in Taekwondo by night to keep my focus sharp! 🥋
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
