@@ -5,7 +5,7 @@
 <!--img align="right" alt="Coding" width="400" padding="50px" src="https://github.com/harisaigithub/PROJECTS__/blob/main/gif3.gif">
 </div-->
   
-<ul>             🚀 AI & ML Engineer | Innovating with Generative AI & Deep Learning 🌟 Ready to dive into the future of technology!
+<ul>             🚀 AI & ML Engineer | Innovating with Deep Learning & Generative AI 🌟  Get ready to dive into my world of cutting-edge AI innovation!
   <br></br>
 <ul>🔥 About Me 🔥 </ul>
 <li>I'm not just an engineer; I'm a visionary crafting transformative AI-driven solutions and intelligent systems. </li>
@@ -13,10 +13,10 @@
 <li>I’m a proud winner of the Robo Chase competition at ASPIRE 2K23 and hold Google AI-ML certifications, with hands-on experience in developing innovative projects and internships.</li>
   <br></br>
 <ul>💡 What I Bring to the Table 💡 🌐</ul>
-<li>Visionary Thinking: I have a knack for seeing the bigger picture and envisioning innovative solutions that drive results like real-time crook detection (86% accuracy) and voice-controlled smart homes. </li> 
-<li>🛠️ Problem Solver: Challenges are my playground.From detecting humans through walls using Wi-Fi CSI to optimizing rocket maneuverability, I turn complex challenges into elegant solutions.</li>
-<li>🌱 Continuous Learner: Learning is a lifelong journey. I'm committed to staying at the forefront of industry trends and emerging technologies.</li>
-<li>🤝Impactful Collaborator: My internships at Qualivon Technologies along with my Robo Chase victory, showcase my ability to drive team success and deliver results.</li>
+<li>🧠 Visionary Thinking : I have a knack for seeing the bigger picture and envisioning innovative solutions that drive results like real-time crook detection (86% accuracy) and voice-controlled smart homes. </li> 
+<li>🛠️ Problem Solver : Challenges are my playground.From detecting humans through walls using Wi-Fi CSI to optimizing rocket maneuverability, I turn complex challenges into elegant solutions.</li>
+<li>🌱 Continuous Learner : Learning is a lifelong journey. I'm committed to staying at the forefront of industry trends and emerging technologies.</li>
+<li>🤝Impactful Collaborator : My internships at Qualivon Technologies along with my Robo Chase victory, showcase my ability to drive team success and deliver results.</li>
   <br></br>
 <ul> 🚀 What's Next? 🚀</ul>
 <li>LLet’s connect to push the boundaries of AI! Whether you’re interested in collaborating on Generative AI projects, exploring prompt engineering, or discussing deep learning advancements, I’m here to spark innovation., I'm here to make meaningful connections.</li>
