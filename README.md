@@ -49,11 +49,6 @@
 <a href="https://linkedin.com/in/nvs-prabhash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nvs-prabhash" height="30" width="40" /></a>
 <a href="https://twitter.com/NVS_Prabhash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="NVS_Prabhash" height="30" width="40" /></a>
 <a href="https://instagram.com/nvs_prabhash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nvs_prabhash" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/harisai_parasa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harisai_parasa" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/harisaiparasa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harisaiparasa" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/harisai_9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harisai_9" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@harisai8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@harisai8" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/harisai_parasa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="harisai_parasa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
